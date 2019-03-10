@@ -1,3 +1,3 @@
 # hello-world
-My first depositor
+My first depository
 I'm here to learn
